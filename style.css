@@ -1,0 +1,14 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card img {
+    width: 612px;
+    height: 408px;
+}
+
+.card {
+    overflow: hidden;
+}
